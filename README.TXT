@@ -8,3 +8,11 @@ This project is part of the material for the book
    David J. Barnes and Michael Kölling
 
 It is discussed in chapter 3.
+
+
+Answers:
+38. Screenshot
+39. Screenshot
+41. I see the note and duration that I put into the addNote.
+45. playNote
+49. screenshot
